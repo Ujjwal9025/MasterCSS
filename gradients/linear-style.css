@@ -17,12 +17,12 @@ section {
   /* background-image: linear-gradient(to left, red, yellow); */
   /* background-image: linear-gradient(to top, red, yellow); */
   /* background-image: linear-gradient(90deg, red, yellow); */
-  /* background-image: linear-gradient(270deg, red, yellow); */
+  /* background-image: linear-gradient(270deg, red,  yellow); */
   /* background-image: linear-gradient(to top left, red, yellow); */
   /* background-image: linear-gradient(
     to right,
-    rgba(255, 0, 0, 0.5),
-    rgba(255, 0, 0, 0.5)
+    rgb(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.1)
   ); */
   /* background-image: linear-gradient(
     to right top,
@@ -32,7 +32,7 @@ section {
     #00bf72,
     #a8eb12
   ); */
-  /* background-image: repeating-linear-gradient(45deg, #d2e0fb, #79ac78 50px); */
+  /* background-image: repeating-linear-gradient(45deg, #d2e0fb, #79ac78 500px); */
   background-image: linear-gradient(
       to right top,
       rgba(5, 25, 55, 0.6),
